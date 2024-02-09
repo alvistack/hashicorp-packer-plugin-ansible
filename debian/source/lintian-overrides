@@ -1,0 +1,2 @@
+packer-plugin-ansible source: file-without-copyright-information
+packer-plugin-ansible source: no-debian-changes

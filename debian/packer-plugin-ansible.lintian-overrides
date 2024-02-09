@@ -1,0 +1,6 @@
+packer-plugin-ansible: copyright-without-copyright-notice
+packer-plugin-ansible: initial-upload-closes-no-bugs
+packer-plugin-ansible: no-manual-page
+packer-plugin-ansible: shared-library-lacks-prerequisites
+packer-plugin-ansible: statically-linked-binary
+packer-plugin-ansible: zero-byte-file-in-doc-directory
